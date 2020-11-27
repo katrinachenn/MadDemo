@@ -27,4 +27,4 @@ My first repository on GitHub.
    - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
 
-![MadDemo gif](https://user-images.githubusercontent.com/74569001/100402900-6d469000-302b-11eb-9723-e8bd6e9ccf7a.gif)
+
